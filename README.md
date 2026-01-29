@@ -1,6 +1,6 @@
 # api-rest
 
-### 1. Understand the fundamentals of the Web
+### [1. Understand the fundamentals of the Web](https://github.com/KleberVales/api-rest/wiki/01-Understand-the-fundamentals-of-the-Web)
 
 - What is HTTP (web protocol)
 - Main methods: GET, POST, PUT, DELETE, PATCH
