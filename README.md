@@ -43,6 +43,7 @@
 ### 7. Integration with other technologies
 
 - Kafka → REST APIs can publish events.
+- Docker/Kubernetes → package and scale APIs.
 
 
 
