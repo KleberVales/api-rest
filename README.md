@@ -27,3 +27,5 @@
 - Using Spring Data JPA for database persistence (e.g., PostgreSQL).
 
 ### 5. Good practices
+
+- Structure URLs clearly (/clients/{id}/orders).
