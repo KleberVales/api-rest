@@ -22,3 +22,5 @@
  - curl → command line for HTTP requests
 
 ### 4. Complete CRUD
+
+- Create endpoints for Create, Read, Update, Delete.
