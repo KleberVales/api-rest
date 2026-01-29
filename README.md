@@ -7,7 +7,7 @@
 - Status codes (200 OK, 404 Not Found, 500 Internal Server Error)
 - Structure of a request: URL, headers, body, response
 
-### 2. REST concept
+### [2. REST concept](https://github.com/KleberVales/api-rest/wiki/02-REST-concept)
 
 - REST = Representational State Transfer
 - Principles:
