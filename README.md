@@ -20,3 +20,5 @@
 
  - Postman or Insomnia → for testing APIs
  - curl → command line for HTTP requests
+
+### 4. Complete CRUD
