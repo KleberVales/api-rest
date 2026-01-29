@@ -30,3 +30,4 @@
 
 - Structure URLs clearly (/clients/{id}/orders).
 - Use the correct status codes.
+- Return standardized error messages.
