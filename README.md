@@ -17,3 +17,5 @@
      - Data format: typically JSON
 
  ### 3. Tools for practice
+
+ - Postman or Insomnia → for testing APIs
