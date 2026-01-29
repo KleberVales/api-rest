@@ -12,3 +12,4 @@
 - REST = Representational State Transfer
 - Principles:
      - Resources represented by URLs (e.g., /clients/1)
+     - Stateless: each request is independent
