@@ -40,6 +40,8 @@
 - API versioning (/v1/clients).
 - HATEOAS (links within the answers).
 
+### 7. Integration with other technologies
+
 
 
 
