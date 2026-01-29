@@ -14,3 +14,4 @@
      - Resources represented by URLs (e.g., /clients/1)
      - Stateless: each request is independent
      - Correct use of HTTP verbs
+     - Data format: typically JSON
