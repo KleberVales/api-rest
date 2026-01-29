@@ -29,3 +29,4 @@
 ### 5. Good practices
 
 - Structure URLs clearly (/clients/{id}/orders).
+- Use the correct status codes.
