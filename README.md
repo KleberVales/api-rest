@@ -25,3 +25,5 @@
 
 - Create endpoints for Create, Read, Update, Delete.
 - Using Spring Data JPA for database persistence (e.g., PostgreSQL).
+
+### 5. Good practices
