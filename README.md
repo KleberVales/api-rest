@@ -26,12 +26,12 @@
 - Create endpoints for Create, Read, Update, Delete
 - Using Spring Data JPA for database persistence (e.g., PostgreSQL)
 
-### 5. Good practices
+### [5. Good practices](https://github.com/KleberVales/api-rest/wiki/05-Good-practices)
 
-- Structure URLs clearly (/clients/{id}/orders).
-- Use the correct status codes.
-- Return standardized error messages.
-- Document the API using Swagger/OpenAPI.
+- Structure URLs clearly (/clients/{id}/orders)
+- Use the correct status codes
+- Return standardized error messages
+- Document the API using Swagger/OpenAPI
 
 ### 6. Advanced features
 
