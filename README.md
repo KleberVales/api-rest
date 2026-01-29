@@ -10,3 +10,4 @@
 ### 2. REST concept
 
 - REST = Representational State Transfer
+- Principles:
