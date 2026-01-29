@@ -40,11 +40,11 @@
 - API versioning (/v1/clients)
 - HATEOAS (links within the answers)
 
-### 7. Integration with other technologies
+### [7. Integration with other technologies](https://github.com/KleberVales/api-rest/wiki/07-Integration-with-other-technologies)
 
-- Kafka → REST APIs can publish events.
-- Docker/Kubernetes → package and scale APIs.
-- Cloud (AWS/OCI) → deployment in real-world environments.
+- Kafka → REST APIs can publish events
+- Docker/Kubernetes → package and scale APIs
+- Cloud (AWS/OCI) → deployment in real-world environments
 
 
 
