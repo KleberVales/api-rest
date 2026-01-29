@@ -15,3 +15,5 @@
      - Stateless: each request is independent
      - Correct use of HTTP verbs
      - Data format: typically JSON
+
+ ### Tools for practice
