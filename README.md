@@ -33,12 +33,12 @@
 - Return standardized error messages
 - Document the API using Swagger/OpenAPI
 
-### 6. Advanced features
+### [6. Advanced features](https://github.com/KleberVales/api-rest/wiki/06-Advanced-features)
 
-- Authentication and authorization (JWT, OAuth2, Spring Security).
-- Pagination and filters in endpoints.
-- API versioning (/v1/clients).
-- HATEOAS (links within the answers).
+- Authentication and authorization (JWT, OAuth2, Spring Security)
+- Pagination and filters in endpoints
+- API versioning (/v1/clients)
+- HATEOAS (links within the answers)
 
 ### 7. Integration with other technologies
 
