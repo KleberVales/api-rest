@@ -8,3 +8,5 @@
 - Structure of a request: URL, headers, body, response
 
 ### 2. REST concept
+
+- REST = Representational State Transfer
