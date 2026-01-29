@@ -19,3 +19,4 @@
  ### 3. Tools for practice
 
  - Postman or Insomnia → for testing APIs
+ - curl → command line for HTTP requests
