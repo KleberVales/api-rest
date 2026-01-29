@@ -16,7 +16,7 @@
      - Correct use of HTTP verbs
      - Data format: typically JSON
 
- ### 3. Tools for practice
+ ### [3. Tools for practice](https://github.com/KleberVales/api-rest/wiki/03-Tools-for-practice)
 
  - Postman or Insomnia → for testing APIs
  - curl → command line for HTTP requests
