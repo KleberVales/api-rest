@@ -21,10 +21,10 @@
  - Postman or Insomnia → for testing APIs
  - curl → command line for HTTP requests
 
-### 4. Complete CRUD
+### [4. Complete CRUD](https://github.com/KleberVales/api-rest/wiki/04-Complete-CRUD)
 
-- Create endpoints for Create, Read, Update, Delete.
-- Using Spring Data JPA for database persistence (e.g., PostgreSQL).
+- Create endpoints for Create, Read, Update, Delete
+- Using Spring Data JPA for database persistence (e.g., PostgreSQL)
 
 ### 5. Good practices
 
