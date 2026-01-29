@@ -38,6 +38,7 @@
 - Authentication and authorization (JWT, OAuth2, Spring Security).
 - Pagination and filters in endpoints.
 - API versioning (/v1/clients).
+- HATEOAS (links within the answers).
 
 
 
