@@ -47,9 +47,3 @@
 - Cloud (AWS/OCI) → deployment in real-world environments
 
 ---
-
-**Kleber Vales**
-
-
-
-
