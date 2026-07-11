@@ -44,5 +44,5 @@
 
 ### 7.1 Kafka → REST APIs can publish events
 ### 7.2 Docker/Kubernetes → package and scale APIs
-- Cloud (AWS/OCI) → deployment in real-world environments
+### 7.3 Cloud (AWS/OCI) → deployment in real-world environments
 
