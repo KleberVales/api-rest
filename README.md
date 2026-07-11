@@ -1,22 +1,22 @@
 # api-rest
 
-### [1. Understand the fundamentals of the Web](https://github.com/KleberVales/api-rest/wiki/01-Understand-the-fundamentals-of-the-Web)
+## [1. Understand the fundamentals of the Web](https://github.com/KleberVales/api-rest/wiki/01-Understand-the-fundamentals-of-the-Web)
 
-- What is HTTP (web protocol)
-- Main methods: GET, POST, PUT, DELETE, PATCH
-- Status codes (200 OK, 404 Not Found, 500 Internal Server Error)
-- Structure of a request: URL, headers, body, response
+### 1.1 What is HTTP (web protocol)
+### 1.2 Main methods: GET, POST, PUT, DELETE, PATCH
+### 1.3 Status codes (200 OK, 404 Not Found, 500 Internal Server Error)
+### 1.4 Structure of a request: URL, headers, body, response
 
-### [2. REST concept](https://github.com/KleberVales/api-rest/wiki/02-REST-concept)
+## [2. REST concept](https://github.com/KleberVales/api-rest/wiki/02-REST-concept)
 
-- REST = Representational State Transfer
-- Principles:
-     - Resources represented by URLs (e.g., /clients/1)
-     - Stateless: each request is independent
-     - Correct use of HTTP verbs
-     - Data format: typically JSON
+### 2.1 REST = Representational State Transfer
+### 2.2 Principles:
+#### 2.2.1 Resources represented by URLs (e.g., /clients/1)
+#### 2.2.2 Stateless: each request is independent
+#### 2.2.3 Correct use of HTTP verbs
+#### 2.2.4 Data format: typically JSON
 
- ### [3. Tools for practice](https://github.com/KleberVales/api-rest/wiki/03-Tools-for-practice)
+ ## [3. Tools for practice](https://github.com/KleberVales/api-rest/wiki/03-Tools-for-practice)
 
  - Postman or Insomnia → for testing APIs
  - curl → command line for HTTP requests
