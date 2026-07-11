@@ -43,6 +43,6 @@
 ## [7. Integration with other technologies](https://github.com/KleberVales/api-rest/wiki/07-Integration-with-other-technologies)
 
 ### 7.1 Kafka → REST APIs can publish events
-- Docker/Kubernetes → package and scale APIs
+### 7.2 Docker/Kubernetes → package and scale APIs
 - Cloud (AWS/OCI) → deployment in real-world environments
 
