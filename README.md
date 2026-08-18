@@ -11,3 +11,5 @@
 # 5. HTTP protocol
 
 # 6. Advanced features
+
+## 6.1 Authentication and authorization (JWT, OAuth2, Spring Security)
