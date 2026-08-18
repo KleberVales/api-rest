@@ -1,4 +1,5 @@
 # 1. Definition of REST APIs
+## 1.1 The practical definition (what does this mean in everyday life)?
 
 # 2. Principles of REST architecture
 
