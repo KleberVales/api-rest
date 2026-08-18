@@ -14,3 +14,4 @@
 
 ## 6.1 Authentication and authorization (JWT, OAuth2, Spring Security)
 ## 6.2 Pagination and filters in endpoints
+## 6.3 API versioning (/v1/clients)
