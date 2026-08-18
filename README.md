@@ -13,3 +13,4 @@
 # 6. Advanced features
 
 ## 6.1 Authentication and authorization (JWT, OAuth2, Spring Security)
+## 6.2 Pagination and filters in endpoints
